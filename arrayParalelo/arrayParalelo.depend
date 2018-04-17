@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524005764 source:d:\ag\arrayparalelo\funnciones.c
+
+1524006212 source:d:\ag\arrayparalelo\main.c
+	<stdio.h>
+	<stdlib.h>
+
