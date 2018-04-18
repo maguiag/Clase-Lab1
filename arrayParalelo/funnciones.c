@@ -50,9 +50,19 @@ float sacarPromedio(int nota1,int nota2)
     resultado = (float)(nota1+nota2)/2;
     return resultado;
 }
+//void mostarAlumno(char apellido[][20], int nota1[], int nota2[], float promedio[], int TAMANIO)
 
-void mostrarPromedio(char apellido, int nota1, int nota2)
+void ordenarPromedios(char apelllido[][20], float promedio[])
 {
-    printf("\n Apellido: %s",)
+    int i;
+    int auxiliar;
+
+    for(i=0; i<TAMANIO; i++)
+    {
+        if(promedio[i]<promedio[i+1])
+        {
+
+        }
+    }
 
 }
